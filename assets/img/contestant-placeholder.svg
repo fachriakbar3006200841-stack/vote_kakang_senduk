@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 760" role="img" aria-label="Foto kontestan belum tersedia">
+  <rect width="640" height="760" fill="#e9edf2"/>
+  <circle cx="320" cy="270" r="118" fill="#cbd3dd"/>
+  <path d="M92 700c18-157 105-236 228-236s210 79 228 236" fill="#cbd3dd"/>
+  <circle cx="320" cy="270" r="153" fill="none" stroke="#c9a45c" stroke-width="4" opacity=".8"/>
+  <path d="M216 696c18-126 56-181 104-181s86 55 104 181" fill="none" stroke="#c9a45c" stroke-width="4" opacity=".8"/>
+</svg>
